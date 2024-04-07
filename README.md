@@ -11,7 +11,7 @@ The Live Market Data WordPress Plugin provides real-time stock market data direc
 
 ## Installation
 
-1. Download the plugin zip file from the [The Invest Advisory](https://theinvestadvisory.com/).
+1. Download the plugin zip file from the [Download]([https://theinvestadvisory.com/](https://wordpress.org/search/live+market+plugin/)).
 2. Log in to your WordPress admin panel.
 3. Navigate to Plugins > Add New.
 4. Click on the "Upload Plugin" button and select the downloaded zip file.
