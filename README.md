@@ -1,6 +1,6 @@
 # Stock_market_data
 
-The Live Market Data WordPress Plugin provides real-time stock market data directly within your WordPress website. With this plugin, you can easily display live stock prices, market indices, and other financial data on your website's pages or posts. This Plugin is devloped by T<a href="https://theinvestadvisory.com/">The Invest Advisory</a> a SEBI registered finanace advisory company. 
+The Live Market Data WordPress Plugin provides real-time stock market data directly within your WordPress website. With this plugin, you can easily display live stock prices, market indices, and other financial data on your website's pages or posts. This Plugin is devloped by <a href="https://theinvestadvisory.com/">The Invest Advisory</a> a SEBI registered finanace advisory company. 
 
 ## Features
 
